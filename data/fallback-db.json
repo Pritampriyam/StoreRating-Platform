@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "System Administrator User",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$r4TUZW74ydEJC/trp86pQeUHmgd8K4HHEsVZL/nWsMRpYVz7I1/2C",
+      "address": "Main Office, System Center, Suite 101",
+      "role": "admin",
+      "is_verified": 1,
+      "verification_code": null,
+      "created_at": "2026-08-11T13:14:36.538Z"
+    },
+    {
+      "id": 2,
+      "name": "Demo User",
+      "email": "demo@example.com",
+      "password": "$2a$10$u/Fw9hZkmshCKKvz8R4wg.2pN1gKs43z.UMrIHAhp8q0nk0oAe2bO",
+      "address": "123 Demo Street",
+      "role": "normal",
+      "is_verified": 1,
+      "verification_code": null,
+      "created_at": "2026-08-11T13:18:12.560Z"
+    },
+    {
+      "id": 3,
+      "name": "Pritam Kumar Gupta Sah",
+      "email": "test09@gmail.com",
+      "password": "$2a$10$WprtcK04h9HcVgw0XI5reOiLqcBcgoqGKGYtxTtnM6hQSM3mRQlZy",
+      "address": "BTM layout , Silk Bord, Bangalore , Karnataka",
+      "role": "normal",
+      "is_verified": 0,
+      "verification_code": "208236",
+      "created_at": "2026-08-11T13:22:13.349Z"
+    },
+    {
+      "id": 4,
+      "name": "Pritam Kumar Gupta Sah",
+      "email": "idyzno2802@minitts.net",
+      "password": "$2a$10$nN/eAa5MKn0G8t2N9xtJ3e4Zb6ceRjpNjRsk/JQhAI/ZN/eDuMNZm",
+      "address": "BTM Layout, Bangalroe, Karnataka",
+      "role": "normal",
+      "is_verified": 0,
+      "verification_code": "969578",
+      "created_at": "2026-08-11T13:23:50.802Z"
+    },
+    {
+      "id": 5,
+      "name": "Pritam Kumar Gupta Sah",
+      "email": "bageman398@rpaintel.com",
+      "password": "$2a$10$/MWdjdOBl0z7oWVoiLvPGeTRF9CUO83/2SbweteH2NMGKmsCacd92",
+      "address": "BTM Layout",
+      "role": "normal",
+      "is_verified": 0,
+      "verification_code": "229599",
+      "created_at": "2026-08-11T13:28:00.911Z"
+    }
+  ],
+  "stores": [],
+  "ratings": []
+}
